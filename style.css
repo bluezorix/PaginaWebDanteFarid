@@ -1,0 +1,69 @@
+    #contenedor{
+    width: 90%;
+    margin: auto;
+    background-color:#7D7D7D;
+    }
+    
+    #encabezado{
+    text-align:center;
+    background-color:#EFD80E;
+    align-self:center;
+    }
+    
+    #menu{
+    background-color:#646464;
+    text-align:center;
+    }
+
+    #menu1{
+        background-color:#646464;
+        text-align:center;
+        }
+    
+        #menu1 a {
+            margin: 0 20px;
+            text-decoration: none;
+            color: inherit;
+        }
+
+    #derecha{
+    float:right;
+    background-color:#B4B3A8;
+    width:80%;
+    }
+    
+    #izquierda{
+    background-color:#646464;
+    float:left;
+    width:20%;
+    text-align:center;
+    }
+    
+    #piepagina{
+    clear:both;
+    background-color:#8F0884;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    img2 {
+        max-width: 100%;
+        height: auto;
+        align-items: center;
+    }
+
+    h6{
+        text-align: center;
+    }
+
+    p{
+        color: aliceblue;
+    }
+
+    h1,h2,h3,h4,h5,h6{
+        color: aliceblue;
+        text-align: center;
+    }
